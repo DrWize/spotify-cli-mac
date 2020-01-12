@@ -51,6 +51,7 @@ Once you have created a new Spotify Application, just run the Spotify CLI with `
 # Displaying Lyrics
 In order to be able to use the `lyrics` command, you will need to get a `Client Access Token` for the `Genius API`.
 Sign up for API access here: https://genius.com/api-clients
+Generate the'CLIENT ACCESS TOKEN' and paste the result into `~/.spotify-cli-config.json`
 
 Once you have your client access token, edit the `~/.spotify-cli-config.json` with `GeniusAPIClientKey` key
 
